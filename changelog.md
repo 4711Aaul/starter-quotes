@@ -1,6 +1,6 @@
-Members:
-    PM
-    AB
+##Members:
+    * PM
+    * AB
 
-Change-log (newest last):
-    Added Changelog.md - AB
+##Change-log (newest last):
+    1. Added Changelog.md - AB
